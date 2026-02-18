@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: "Resident Evil SAC — Static Preservation Edition"
+message: >
+  If you use this preserved static archive in academic work,
+  research, or publications, please cite it using the following metadata.
+type: dataset
+
+authors:
+  - family-names: Falkiner
+    given-names: Felipe
+    role: "Data curator"
+    affiliation: "Digital Preservation Initiative"
+
+  - family-names: Demartini
+    given-names: Felipe
+    role: "Original creator"
+    email: "demartinifelipe1@gmail.com"
+
+abstract: >
+  A static preservation archive of the Brazilian fan website
+  "Resident Evil SAC", originally created by Felipe Demartini (Evil Shady)
+  and active mainly between 2011 and 2013. This version was generated
+  using WordPress and Simply Static after restoring compatibility issues
+  caused by modern PHP updates. The purpose of this repository is long-term
+  digital preservation and public accessibility.
+
+repository-code: "https://github.com/felipefalkiner/residentevilsac-static"
+url: "https://static.residentevilsac.com.br/"
+license: "CC-BY-NC-4.0"
+
+keywords:
+  - digital preservation
+  - web archiving
+  - resident evil
+  - fan community
+  - brazilian gaming media
+  - wordpress
+  - static archive
+
+version: "1.0.0"
+date-released: 2026-02-18
