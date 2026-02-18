@@ -618,6 +618,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./noticias/cenarios-de-resident-evil-6-serao-exibidos-ao-vivo-na-e3-2012/index.html</loc>
+		<lastmod>2013-11-06T02:13:23+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/04/RE6_Captivate_0002_bmp_jpgcopy.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./noticias/resident-evil-6-estampa-fachadas-da-e3-2012/index.html</loc>
 		<lastmod>2013-11-06T02:13:23+00:00</lastmod>
 		<image:image>
@@ -628,13 +635,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/06/566b8e26ab3c11e18cf91231380fd29b_7.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./noticias/cenarios-de-resident-evil-6-serao-exibidos-ao-vivo-na-e3-2012/index.html</loc>
-		<lastmod>2013-11-06T02:13:23+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/04/RE6_Captivate_0002_bmp_jpgcopy.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1293,17 +1293,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/resident-evil-6-e-confirmado-em-evento-na-europa/index.html</loc>
-		<lastmod>2013-11-06T02:13:53+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/04/RE6_Captivate_0018_bmp_jpgcopy.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/resident-evil-vai-ganhar-mais-um-restaurante-no-japao/index.html</loc>
 		<lastmod>2013-11-06T02:13:53+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/06/Screenshot-2012-06-25_13.01.52.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/resident-evil-6-e-confirmado-em-evento-na-europa/index.html</loc>
+		<lastmod>2013-11-06T02:13:53+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/04/RE6_Captivate_0018_bmp_jpgcopy.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1540,17 +1540,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./extras/site-elege-os-piores-dialogos-de-resident-evil/index.html</loc>
-		<lastmod>2013-11-06T02:14:56+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/08/re_Wnubc_3858.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/confira-novos-gameplays-do-modo-mercenaries-de-resident-evil-6/index.html</loc>
 		<lastmod>2013-11-06T02:14:56+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/08/039.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./extras/site-elege-os-piores-dialogos-de-resident-evil/index.html</loc>
+		<lastmod>2013-11-06T02:14:56+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/08/re_Wnubc_3858.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1652,6 +1652,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./noticias/resident-evil-condenacao-acontece-logo-antes-de-re6/index.html</loc>
+		<lastmod>2013-11-06T02:15:04+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/07/Resident-Evil-Damnation.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./noticias/novas-imagens-de-resident-evil-condenacao/index.html</loc>
 		<lastmod>2013-11-06T02:15:04+00:00</lastmod>
 		<image:image>
@@ -1698,13 +1705,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/08/0112.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./noticias/resident-evil-condenacao-acontece-logo-antes-de-re6/index.html</loc>
-		<lastmod>2013-11-06T02:15:04+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/07/Resident-Evil-Damnation.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3737,17 +3737,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/criador-de-gears-of-war-quer-consertar-resident-evil/index.html</loc>
-		<lastmod>2013-11-06T02:17:57+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/05/cliffy-b-wants-in-the-next-console-evilcontrollers.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/resident-evil-6-nao-precisara-de-troca-de-discos-no-xbox-360/index.html</loc>
 		<lastmod>2013-11-06T02:17:57+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/07/082.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/criador-de-gears-of-war-quer-consertar-resident-evil/index.html</loc>
+		<lastmod>2013-11-06T02:17:57+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/05/cliffy-b-wants-in-the-next-console-evilcontrollers.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4642,13 +4642,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/aplicativo-da-residentevil-net-chega-aos-celulares/index.html</loc>
-		<lastmod>2013-11-06T02:18:34+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/08/041.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/resident-evil-5-retribuicao-assista-a-um-resumo-da-premiere-em-toquio/index.html</loc>
 		<lastmod>2013-11-06T02:18:34+00:00</lastmod>
 		<image:image>
@@ -4656,10 +4649,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/ada-vai-ganhar-parceiro-em-resident-evil-6/index.html</loc>
-		<lastmod>2013-11-06T02:18:35+00:00</lastmod>
+		<loc>./noticias/aplicativo-da-residentevil-net-chega-aos-celulares/index.html</loc>
+		<lastmod>2013-11-06T02:18:34+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2012/09/ada-1.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2012/08/041.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4670,6 +4663,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./noticias/ada-vai-ganhar-parceiro-em-resident-evil-6/index.html</loc>
+		<lastmod>2013-11-06T02:18:35+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/09/ada-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./noticias/capcom-fala-sobre-os-conteudos-encontrados-no-disco-de-resident-evil-6/index.html</loc>
 		<lastmod>2013-11-06T02:18:36+00:00</lastmod>
 		<image:image>
@@ -4677,17 +4677,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/resident-evil-6-estreia-em-primeiro-no-japao/index.html</loc>
-		<lastmod>2013-11-06T02:18:37+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/09/26.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/projeto-eleos-e-esperanca-para-a-salvacao-da-humanidade/index.html</loc>
 		<lastmod>2013-11-06T02:18:37+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/09/Eleos-Banner-428-width2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/resident-evil-6-estreia-em-primeiro-no-japao/index.html</loc>
+		<lastmod>2013-11-06T02:18:37+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/09/26.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5056,17 +5056,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/resident-evil-5-sera-gratuito-na-psn-europeia/index.html</loc>
-		<lastmod>2013-11-06T02:19:06+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2011/05/150045-Spencer_wesker_castle.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/resident-evil-6-estara-na-tokyo-game-show-2012/index.html</loc>
 		<lastmod>2013-11-06T02:19:06+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/08/09.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/resident-evil-5-sera-gratuito-na-psn-europeia/index.html</loc>
+		<lastmod>2013-11-06T02:19:06+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2011/05/150045-Spencer_wesker_castle.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5362,6 +5362,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./noticias/residentevil-net-evento-que-da-roupas-extras-e-completado/index.html</loc>
+		<lastmod>2013-11-06T02:20:03+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/07/Screenshot-2012-07-27_13.08.34.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./industria/os-milagres-de-resident-evil-2-para-nintendo-64/index.html</loc>
 		<lastmod>2013-11-06T02:20:03+00:00</lastmod>
 		<image:image>
@@ -5378,13 +5385,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>http://www.residentevilsac.com.br/wp-content/uploads/2013/01/46948-6-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./noticias/residentevil-net-evento-que-da-roupas-extras-e-completado/index.html</loc>
-		<lastmod>2013-11-06T02:20:03+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/07/Screenshot-2012-07-27_13.08.34.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -6133,17 +6133,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./produtos/videosac-12-terra-morta-e-unboxing-resident-evil-6-limited-edition/index.html</loc>
-		<lastmod>2013-11-06T02:21:11+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/12/IMG_0501.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/versao-pc-de-resident-evil-6-nao-foi-cancelada-afirma-capcom/index.html</loc>
 		<lastmod>2013-11-06T02:21:11+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/08/full.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./produtos/videosac-12-terra-morta-e-unboxing-resident-evil-6-limited-edition/index.html</loc>
+		<lastmod>2013-11-06T02:21:11+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/12/IMG_0501.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -6316,17 +6316,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./artigos-re/videosac-11-resident-evil-6-mercenaries-com-leitores/index.html</loc>
-		<lastmod>2013-11-06T02:21:27+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/08/Screenshot-2012-08-16_11.47.25.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/jake-e-eleito-como-um-dos-personagens-mais-cretinos-de-2012/index.html</loc>
 		<lastmod>2013-11-06T02:21:27+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/08/Screenshot-2012-08-14_07.41.46.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./artigos-re/videosac-11-resident-evil-6-mercenaries-com-leitores/index.html</loc>
+		<lastmod>2013-11-06T02:21:27+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/08/Screenshot-2012-08-16_11.47.25.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -7563,16 +7563,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/conheca-os-controles-da-versao-pc-de-resident-evil-6/index.html</loc>
-		<lastmod>2013-11-06T02:23:28+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/02/08.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/03/11igaw7.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/resident-evil-marhawa-desire-3-chega-ao-brasil-neste-mes/index.html</loc>
 		<lastmod>2013-11-06T02:23:28+00:00</lastmod>
 		<image:image>
@@ -7580,6 +7570,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2013/05/197791_599148113428631_1063395633_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/conheca-os-controles-da-versao-pc-de-resident-evil-6/index.html</loc>
+		<lastmod>2013-11-06T02:23:28+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/02/08.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/03/11igaw7.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -7767,25 +7767,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./artigos-re/perfil-carlos-oliveira/index.html</loc>
-		<lastmod>2013-11-06T02:23:36+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/03/640px-Carlos_UC1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/02/Carlos_Oliveira.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>http://www.residentevilsac.com.br/wp-content/uploads/2013/03/640px-Carlos_UC.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/02/oded-fehr.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2011/12/053.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/previa-traz-novas-imagens-e-informacoes-de-resident-evil-revelations-unveiled-edition/index.html</loc>
 		<lastmod>2013-11-06T02:23:36+00:00</lastmod>
 		<image:image>
@@ -7886,6 +7867,25 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./artigos-re/perfil-carlos-oliveira/index.html</loc>
+		<lastmod>2013-11-06T02:23:36+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/03/640px-Carlos_UC1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/02/Carlos_Oliveira.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.residentevilsac.com.br/wp-content/uploads/2013/03/640px-Carlos_UC.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/02/oded-fehr.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2011/12/053.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./noticias/demo-de-resident-evil-revelations-chega-em-14-de-maio/index.html</loc>
 		<lastmod>2013-11-06T02:23:37+00:00</lastmod>
 		<image:image>
@@ -7897,6 +7897,13 @@
 		<lastmod>2013-11-06T02:23:37+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2013/03/RE6PC_x_L4D2_Nick_01_bmp_jpgcopy.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/capcom-revela-expectativa-de-vendas-para-resident-evil-revelations/index.html</loc>
+		<lastmod>2013-11-06T02:23:38+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/03/wallblister_rachel_001_bmp_jpgcopy.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -7997,13 +8004,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2013/03/RE6_x_L4D2_The_Witch_00_bmp_jpgcopy.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./noticias/capcom-revela-expectativa-de-vendas-para-resident-evil-revelations/index.html</loc>
-		<lastmod>2013-11-06T02:23:38+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/03/wallblister_rachel_001_bmp_jpgcopy.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -8162,6 +8162,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./noticias/trailer-exibe-as-novidades-de-resident-evil-revelations-no-wii-u/index.html</loc>
+		<lastmod>2013-11-06T02:23:47+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/03/Miiverse_WiiU_ENG_Creatures-Voice_004.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./artigos-re/perfil-nicholai-ginovaef/index.html</loc>
 		<lastmod>2013-11-06T02:23:47+00:00</lastmod>
 		<image:image>
@@ -8175,13 +8182,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>http://www.residentevilsac.com.br/wp-content/uploads/2011/10/prc-5.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./noticias/trailer-exibe-as-novidades-de-resident-evil-revelations-no-wii-u/index.html</loc>
-		<lastmod>2013-11-06T02:23:47+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/03/Miiverse_WiiU_ENG_Creatures-Voice_004.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -8255,17 +8255,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/capcom-lanca-jogo-online-de-resident-evil-revelations/index.html</loc>
-		<lastmod>2013-11-06T02:23:54+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/01/Screenshot-2013-01-22_14.18.22.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/video-de-resident-evil-revelations-explora-os-virus-da-serie/index.html</loc>
 		<lastmod>2013-11-06T02:23:54+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2013/05/SS-2013.05.03-13.43.39.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/capcom-lanca-jogo-online-de-resident-evil-revelations/index.html</loc>
+		<lastmod>2013-11-06T02:23:54+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/01/Screenshot-2013-01-22_14.18.22.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -8347,13 +8347,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/atualizacao-modifica-jogabilidade-no-modo-survivors-de-resident-evil-6/index.html</loc>
-		<lastmod>2013-11-06T02:24:00+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/12/444402f0f14588a0321ad9629c4dadba.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./extras/cosplay-da-semana-daran-h/index.html</loc>
 		<lastmod>2013-11-06T02:24:00+00:00</lastmod>
 		<image:image>
@@ -8388,13 +8381,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/hunk-vai-estar-em-lost-planet-3/index.html</loc>
-		<lastmod>2013-11-06T02:24:02+00:00</lastmod>
+		<loc>./noticias/atualizacao-modifica-jogabilidade-no-modo-survivors-de-resident-evil-6/index.html</loc>
+		<lastmod>2013-11-06T02:24:00+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2013/03/Screenshot-2013-03-06_15.11.20.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>http://www.residentevilsac.com.br/wp-content/uploads/2013/03/lp3_preorder.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2012/12/444402f0f14588a0321ad9629c4dadba.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -8402,6 +8392,16 @@
 		<lastmod>2013-11-06T02:24:02+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/07/11.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/hunk-vai-estar-em-lost-planet-3/index.html</loc>
+		<lastmod>2013-11-06T02:24:02+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/03/Screenshot-2013-03-06_15.11.20.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.residentevilsac.com.br/wp-content/uploads/2013/03/lp3_preorder.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -8419,13 +8419,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./artigos-re/videosac-20-tutorial-residentevil-net/index.html</loc>
-		<lastmod>2013-11-06T02:24:04+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/08/022.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./e-se/e-se-resident-evil-revelations-tambem-chegasse-ao-playstation-vita/index.html</loc>
 		<lastmod>2013-11-06T02:24:04+00:00</lastmod>
 		<image:image>
@@ -8439,6 +8432,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2013/03/image_53173.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./artigos-re/videosac-20-tutorial-residentevil-net/index.html</loc>
+		<lastmod>2013-11-06T02:24:04+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/08/022.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -8561,17 +8561,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./extras/estamos-de-ferias-2/index.html</loc>
-		<lastmod>2013-11-06T02:24:12+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/02/url.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/a-heranca-do-terror-em-resident-evil-revelations/index.html</loc>
 		<lastmod>2013-11-06T02:24:12+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2013/03/image_53164.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./extras/estamos-de-ferias-2/index.html</loc>
+		<lastmod>2013-11-06T02:24:12+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/02/url.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -9526,6 +9526,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./noticias/monstro-de-resident-evil-6-ja-esta-em-left-4-dead-2/index.html</loc>
+		<lastmod>2013-11-06T02:25:17+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/04/Screenshot-2013-04-03_14.19.52.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./e-se/e-se-raccoon-city-nao-tivesse-explodido/index.html</loc>
 		<lastmod>2013-11-06T02:25:17+00:00</lastmod>
 		<image:image>
@@ -9536,13 +9543,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/01/104.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./noticias/monstro-de-resident-evil-6-ja-esta-em-left-4-dead-2/index.html</loc>
-		<lastmod>2013-11-06T02:25:17+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/04/Screenshot-2013-04-03_14.19.52.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -10266,13 +10266,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/jogadores-relatam-problemas-com-o-raid-mode-de-resident-evil-revelations/index.html</loc>
-		<lastmod>2013-11-06T02:27:13+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2011/10/035.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/paul-anderson-ainda-nao-esta-escrevendo-roteiro-de-resident-evil-6/index.html</loc>
 		<lastmod>2013-11-06T02:27:13+00:00</lastmod>
 		<image:image>
@@ -10280,10 +10273,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/psn-recebe-avatares-de-resident-evil-revelations/index.html</loc>
-		<lastmod>2013-11-06T02:27:15+00:00</lastmod>
+		<loc>./noticias/jogadores-relatam-problemas-com-o-raid-mode-de-resident-evil-revelations/index.html</loc>
+		<lastmod>2013-11-06T02:27:13+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2012/01/073.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2011/10/035.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -10291,6 +10284,13 @@
 		<lastmod>2013-11-06T02:27:15+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2013/08/v9YXKDb.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/psn-recebe-avatares-de-resident-evil-revelations/index.html</loc>
+		<lastmod>2013-11-06T02:27:15+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/01/073.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -10429,13 +10429,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/capcom-cancela-piscina-de-sangue-de-resident-evil-revelations/index.html</loc>
-		<lastmod>2013-11-06T02:27:27+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/05/17.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./tops/top-5-atores-que-deveriam-estar-em-um-filme-de-resident-evil/index.html</loc>
 		<lastmod>2013-11-06T02:27:27+00:00</lastmod>
 		<image:image>
@@ -10455,6 +10448,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>http://www.residentevilsac.com.br/wp-content/uploads/2013/08/norman-reedus.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/capcom-cancela-piscina-de-sangue-de-resident-evil-revelations/index.html</loc>
+		<lastmod>2013-11-06T02:27:27+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/05/17.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -10583,17 +10583,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/capcom-vai-resolver-problemas-de-controle-em-resident-evil-revelations/index.html</loc>
-		<lastmod>2013-11-06T02:27:36+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/05/22.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/resident-evil-tem-a-melhor-tela-de-loading-dos-games-afirma-site/index.html</loc>
 		<lastmod>2013-11-06T02:27:36+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2013/08/Door-article_image.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/capcom-vai-resolver-problemas-de-controle-em-resident-evil-revelations/index.html</loc>
+		<lastmod>2013-11-06T02:27:36+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/05/22.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -10644,17 +10644,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/resident-evil-revelations-e-relancado/index.html</loc>
-		<lastmod>2013-11-06T02:27:43+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/04/035.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/curta-brinca-com-os-cliches-de-resident-evil/index.html</loc>
 		<lastmod>2013-11-06T02:27:43+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2013/08/Screenshot-2013-08-05_22.10.38.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/resident-evil-revelations-e-relancado/index.html</loc>
+		<lastmod>2013-11-06T02:27:43+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/04/035.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

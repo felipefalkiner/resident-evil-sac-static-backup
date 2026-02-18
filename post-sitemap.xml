@@ -5525,6 +5525,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./noticias/resident-evil-revelations-sera-capa-da-nintendo-power/</loc>
+		<lastmod>2013-11-06T01:58:33+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2011/11/NP274_RE.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./noticias/novo-trailer-e-imagens-de-resident-evil-revelations-2/</loc>
 		<lastmod>2013-11-06T01:58:33+00:00</lastmod>
 		<image:image>
@@ -5571,13 +5578,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2011/12/game_cha_bg_bsaa.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./noticias/resident-evil-revelations-sera-capa-da-nintendo-power/</loc>
-		<lastmod>2013-11-06T01:58:33+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2011/11/NP274_RE.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5947,13 +5947,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/teaser-de-resident-evil-retribution-pode-ser-lancado-no-natal/</loc>
-		<lastmod>2013-11-06T01:59:27+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2011/08/11.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./extras/guia-jogue-com-os-personagens-de-resident-evil-em-marvel-vs-capcom-3/</loc>
 		<lastmod>2013-11-06T01:59:27+00:00</lastmod>
 		<image:image>
@@ -5970,6 +5963,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>http://www.residentevilsac.com.br/wp-content/uploads/2011/11/Screenshot-2011-11-13_16.23.44.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/teaser-de-resident-evil-retribution-pode-ser-lancado-no-natal/</loc>
+		<lastmod>2013-11-06T01:59:27+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2011/08/11.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -6680,13 +6680,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/capcom-revela-perfis-dos-spec-ops-de-resident-evil-operation-raccoon-city/</loc>
-		<lastmod>2013-11-06T02:02:18+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/01/Screenshot-2012-01-13_01.18.27.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/spec-ops-aparecem-em-artworks-de-resident-evil-operation-raccoon-city/</loc>
 		<lastmod>2013-11-06T02:02:18+00:00</lastmod>
 		<image:image>
@@ -6709,6 +6702,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/01/064.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/capcom-revela-perfis-dos-spec-ops-de-resident-evil-operation-raccoon-city/</loc>
+		<lastmod>2013-11-06T02:02:18+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/01/Screenshot-2012-01-13_01.18.27.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -7116,6 +7116,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./noticias/conheca-a-historia-do-cruzeiro-queen-zenobia/</loc>
+		<lastmod>2013-11-06T02:03:04+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2011/12/game_sta_bg1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./extras/dino-stalker-o-terceiro-survivor/</loc>
 		<lastmod>2013-11-06T02:03:04+00:00</lastmod>
 		<image:image>
@@ -7123,13 +7130,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>http://www.residentevilsac.com.br/wp-content/uploads/2011/12/5616.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./noticias/conheca-a-historia-do-cruzeiro-queen-zenobia/</loc>
-		<lastmod>2013-11-06T02:03:04+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2011/12/game_sta_bg1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -7961,17 +7961,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./extras/site-faz-videos-em-live-action-para-promover-resident-evil-revelations/</loc>
-		<lastmod>2013-11-06T02:06:41+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/02/Screenshot-2012-02-09_19.30.20.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/resident-evil-revelations-sera-tema-de-palestra-na-gdc-2012/</loc>
 		<lastmod>2013-11-06T02:06:41+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2011/12/Screenshot-2011-12-05_12.25.01.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./extras/site-faz-videos-em-live-action-para-promover-resident-evil-revelations/</loc>
+		<lastmod>2013-11-06T02:06:41+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/02/Screenshot-2012-02-09_19.30.20.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -8244,13 +8244,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/resident-evil-operation-raccoon-city-dez-primeiros-minutos-e-novos-gameplays/</loc>
-		<lastmod>2013-11-06T02:07:27+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/01/prc-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./industria/o-futuro-de-resident-evil-nos-portateis/</loc>
 		<lastmod>2013-11-06T02:07:27+00:00</lastmod>
 		<image:image>
@@ -8264,6 +8257,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/01/0911.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/resident-evil-operation-raccoon-city-dez-primeiros-minutos-e-novos-gameplays/</loc>
+		<lastmod>2013-11-06T02:07:27+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/01/prc-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -8930,17 +8930,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/no-hope-left-recebe-novas-gravacoes-misteriosas/</loc>
-		<lastmod>2013-11-06T02:09:04+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/05/picture6.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/novo-dlc-de-resident-evil-operation-raccoon-city-tambem-esta-disponivel-no-brasil/</loc>
 		<lastmod>2013-11-06T02:09:04+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/04/Merged1330410207.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/no-hope-left-recebe-novas-gravacoes-misteriosas/</loc>
+		<lastmod>2013-11-06T02:09:04+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/05/picture6.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -9870,13 +9870,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/resident-evil-damnation-chega-em-2710-aos-cinemas-do-japao/</loc>
-		<lastmod>2013-11-06T02:10:09+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/02/Leon_002.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./e-se/e-se-alice-fosse-uma-personagem-dos-games/</loc>
 		<lastmod>2013-11-06T02:10:09+00:00</lastmod>
 		<image:image>
@@ -9890,6 +9883,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>http://www.residentevilsac.com.br/wp-content/uploads/2012/03/image4.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/resident-evil-damnation-chega-em-2710-aos-cinemas-do-japao/</loc>
+		<lastmod>2013-11-06T02:10:09+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/02/Leon_002.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -10317,6 +10317,16 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./noticias/resident-evil-the-umbrella-conspiracy-sera-lancado-no-brasil/</loc>
+		<lastmod>2013-11-06T02:10:41+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/04/resident.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/04/resident-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./noticias/primeiro-dlc-de-pre-venda-de-resident-evil-6-e-anunciado/</loc>
 		<lastmod>2013-11-06T02:10:41+00:00</lastmod>
 		<image:image>
@@ -10348,16 +10358,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/04/012.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./noticias/resident-evil-the-umbrella-conspiracy-sera-lancado-no-brasil/</loc>
-		<lastmod>2013-11-06T02:10:41+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/04/resident.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/04/resident-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -10907,17 +10907,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/dubladora-original-de-ashley-nao-esta-em-resident-evil-damnation/</loc>
-		<lastmod>2013-11-06T02:12:02+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/07/Screenshot-2012-07-14_01.11.10.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/capcom-da-indicacoes-sobre-clone-de-ada-em-resident-evil-6/</loc>
 		<lastmod>2013-11-06T02:12:02+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/06/10.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/dubladora-original-de-ashley-nao-esta-em-resident-evil-damnation/</loc>
+		<lastmod>2013-11-06T02:12:02+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/07/Screenshot-2012-07-14_01.11.10.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -11299,17 +11299,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/resident-evil-6-nao-deve-ganhar-demo-para-pc/</loc>
-		<lastmod>2013-11-06T02:12:32+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/06/082.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/mika-nakashima-esta-na-trilha-sonora-de-resident-evil-5-retribuicao/</loc>
 		<lastmod>2013-11-06T02:12:32+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/07/p1388956089.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/resident-evil-6-nao-deve-ganhar-demo-para-pc/</loc>
+		<lastmod>2013-11-06T02:12:32+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/06/082.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -11460,17 +11460,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./noticias/melhor-da-e3-resident-evil-6-recebe-diversos-premios/</loc>
-		<lastmod>2013-11-06T02:12:41+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2012/06/15.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./noticias/mira-e-interface-de-usuario-poderao-ser-desligadas-em-resident-evil-6/</loc>
 		<lastmod>2013-11-06T02:12:41+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2012/06/re6-22.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./noticias/melhor-da-e3-resident-evil-6-recebe-diversos-premios/</loc>
+		<lastmod>2013-11-06T02:12:41+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2012/06/15.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

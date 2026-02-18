@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>./slider/videosac-27-game/</loc>
-		<lastmod>2013-10-07T19:41:13+00:00</lastmod>
+		<loc>./slider/conto-resident-evil-chronicles/</loc>
+		<lastmod>2026-02-18T18:51:17+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2013/10/Resident-Evil-6-Wallpaper-001.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./slider/o-que-podemos-aprender-com-last-us/</loc>
-		<lastmod>2013-10-07T19:45:02+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/10/the-last-ofus.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./slider/e-se-chris-tivesse-morrido-em-resident-evil-6/</loc>
-		<lastmod>2013-10-07T19:48:24+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2013/10/re6-chris-redfield.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2013/10/resident-evil-operation-racoon-city-fondo-de-pantalla-9.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>./slider/cinco-perguntas-serem-respondidas-antes-de-um-reboot/</loc>
-		<lastmod>2013-10-07T19:53:57+00:00</lastmod>
+		<lastmod>2026-02-18T18:51:43+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2013/10/resident_evil_claire_redfield_desktop_1440x900_hd-wallpaper-908811.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>./slider/conto-resident-evil-chronicles/</loc>
-		<lastmod>2013-10-27T23:47:15+00:00</lastmod>
+		<loc>./slider/e-se-chris-tivesse-morrido-em-resident-evil-6/</loc>
+		<lastmod>2026-02-18T18:51:48+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2013/10/resident-evil-operation-racoon-city-fondo-de-pantalla-9.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2013/10/re6-chris-redfield.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./slider/o-que-podemos-aprender-com-last-us/</loc>
+		<lastmod>2026-02-18T18:51:52+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/10/the-last-ofus.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./slider/videosac-27-game/</loc>
+		<lastmod>2026-02-18T18:51:57+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2013/10/Resident-Evil-6-Wallpaper-001.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
