@@ -70,7 +70,9 @@ Etapas:
 ### 👤 Créditos
 
 - 🎮 Projeto original: **Felipe Demartini (Evil Shady)**
+- 📧 Contato do criador original: demartinifelipe1@gmail.com
 - 🛠️ Preservação e geração estática: **Felipe Falkiner**
+- 🔗 GitHub (preservação): https://github.com/felipefalkiner
 - 🧰 Ferramentas utilizadas: WordPress + Simply Static
 - 🚀 Hospedagem da versão estática: Netlify
 
@@ -109,6 +111,17 @@ This project exists to ensure:
 - 🕰️ Long-term digital memory preservation
 
 This is fundamentally a **digital archiving initiative**.
+
+---
+
+### 👤 Credits
+
+- 🎮 Original project: **Felipe Demartini (Evil Shady)**
+- 📧 Original creator contact: demartinifelipe1@gmail.com
+- 🛠️ Static preservation & generation: **Felipe Falkiner**
+- 🔗 GitHub (preservation): https://github.com/felipefalkiner
+- 🧰 Tools used: WordPress + Simply Static
+- 🚀 Static hosting: Netlify
 
 ---
 
