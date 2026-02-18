@@ -1,0 +1,464 @@
+/*
+Theme Name: LeetPress
+Description: A Premium Gaming Theme
+Author: Sebastian R
+Author URI: http://wpmaniac.com
+Version: 1.0
+*/
+
+@import url("./css/reset.css");
+@import url("./css/jquery.fancybox-1.3.4.css");
+
+/***
+	Index
+	=================
+	1. General Styles
+	2. Header
+		2.1. Top Navigation
+		2.2. Navigation
+		2.3. Search
+	3. Featured Section
+	4. Main Section
+		4.1. News
+		4.2. Videos
+		4.3. Updates
+	5. Sidebar
+		5.1. Review widget
+		5.2. Twitter widget
+	6. Footer Section
+		6.1. Footer top
+		6.2. Footer
+		6.3. Footer Twitter widget
+		6.4. Footer Bottom
+	7. Post
+		7.1. Review
+		7.2. Comments
+		7.3. Screenshots
+		7.4. HTML Styling 
+	8. Archives
+		8.1. Review Archive
+		8.2. Video + Screenshot archive
+	9. Fontface
+	10. Shortcodes
+		10.1 Buttons
+		10.2. Dropcap
+		10.3. Videos
+		10.4. Highlights
+		10.5. Check List
+		10.6. Bad List
+		10.7. Tabs
+		10.8. Toggles
+		10.9. Columns
+		10.10. Game Info Box
+	11. Search page
+	=================
+***/
+
+/***     1. General Styles     ***/
+body { background:#FFFFFF; font: 12px Arial, sans-serif; color: #3a3a3a; }
+a { color:#006acd; text-decoration:underline; }
+a:hover { text-decoration:underline; }
+.alignleft { float: left; }
+.alignright { float: right; }
+.aligncenter { margin: 0 0 15px 0 auto; text-align:center;}
+
+/***     2. Header     ***/
+#header-wrapper { background:url(./images/header-bg.png) repeat-x; height:202px; }
+#header { width:960px; margin:0 auto; position:relative; z-index:2; }
+#logo { position:absolute; top:41px; left:0; }
+#header-banner { position:absolute; right:0; top:63px; }
+#social-media { float:right; padding-top:7px; }
+
+	/*     2.1. Top Navigation     */
+	#top-navigation { height:24px; padding-top:8px; float:left; }
+	#top-navigation li { float:left; display:block; margin-right:20px; text-shadow: 1px 1px 1px #000; position:relative; height:24px; z-index:100; }
+	#top-navigation li a { display:block; color:#8c8c8c; }
+	#top-navigation li:hover { visibility: inherit; /* fixes IE7 'sticky bug' */ }
+	
+	#top-navigation li ul { left:-20000px; position:absolute; z-index:1; top:24px; border:1px solid #000; border-top:none; width:140px; background:#121212; }
+	#top-navigation li ul li { float:none; background:url(./images/nav-item-bg.png) repeat-x; height:25px; margin:0; padding:9px 0 0 10px; text-shadow: 1px 1px 1px #000; }
+	#top-navigation li ul li a { font-size:12px; }
+	#top-navigation li:hover ul { left:0; }
+	
+	#top-navigation li ul li ul { top:-20000px; }
+	#top-navigation li ul li:hover ul { left:140px; top:0; }
+	
+	#top-navigation li ul li ul li ul { top:-20000px; }
+	#top-navigation li ul li ul li:hover ul { left:140px; top:0; }
+
+	/*     2.2. Navigation     */
+	#navigation-wrapper { position:absolute; top:156px; width:960px; left:0; }
+	
+	#navigation { height:46px; float:left; margin-left:57px;}
+	#navigation li { display:block; float:left; margin-right:30px; position:relative; padding-top:13px; height:46px; text-shadow: 1px 1px 1px #000; }
+	#navigation li a { font-size:14px; color:#FFF; font-weight:bold }
+	#navigation li:hover { visibility: inherit; /* fixes IE7 'sticky bug' */ }
+	
+	#navigation li ul { left:-20000px; position:absolute; z-index:1; top:45px; border:1px solid #000; border-top:none; width:140px; }
+	#navigation li ul li { float:none; background:url(./images/nav-item-bg.png) repeat-x; height:25px; margin:0; padding:9px 0 0 10px; text-shadow: 1px 1px 1px #000; }
+	#navigation li ul li a { font-size:12px; }
+	#navigation li:hover ul { left:0; }
+	
+	#navigation li ul li ul { top:-20000px; }
+	#navigation li ul li:hover ul { left:140px; top:0; }
+	
+	#navigation li ul li ul li ul { top:-20000px; }
+	#navigation li ul li ul li:hover ul { left:140px; top:0; }
+	
+	/*     2.3. Search     */
+	#search { float:right; width:350px; height:25px; background:url(./images/search-bg.png) repeat-x; position:absolute; top:30px; left:580px; padding:6px 0 0 9px; }
+	#search input { background:none; border:none; color:#ffffff; width:317px; }
+	
+/***     3. Featured Section     ***/
+.slider { position:relative; background:#000; z-index:1; }
+.sliderContent { overflow:hidden; height:280px; position:relative; }
+.featured-inner { width:960px; margin:0 auto; position:relative;}
+.featured-arrows { background:url(./images/featured-arrows.png) no-repeat; height:52px; width:39px; position:absolute; top:160px; }
+.featured-inner h1 { position:absolute; top:160px; left:39px; background:#000; color:#FFF; font-size:34px; padding:7px 10px 3px 10px; font-family:"BebasNeueRegular"; }
+.featured-inner h1 a { color:#FFF; }
+.featured-meta { background:url(./images/featured-meta.png) repeat-x; height:26px; left:0; top:211px; position:absolute; color:#8e8e8e; text-shadow: 1px 1px 1px #000; text-transform: uppercase; padding:8px 10px 0 10px; }
+.top-overlay { background:url(./images/top-overlay.png) repeat-x; width:100%; position:absolute; top:0; height:30px; }
+.bottom-overlay { background:url(./images/bottom-overlay.png) repeat-x; width:100%; position:absolute; bottom:0; height:30px; }
+.sliderArrows a { display:block; text-indent:-9999px; outline:none; z-index:50; background-image:url(./images/prev_next.png); width:42px; height:43px; position:absolute; top:50%; margin-top:-34px; }
+.prev { background-position:0 0; left:10px; }
+.prev:hover { background-position:0 -44px; }
+.next { right:10px; background-position:-44px 0; }
+.next:hover { background-position:-44px -44px; }
+
+/***     4. Main Section     ***/
+#main-wrapper { width:920px; background:#FFF; margin:0 auto; padding:20px; overflow:hidden; }
+#main { width:600px; margin-right:20px; float:left; }
+.section-title { background:url(./images/section-title.png) repeat; padding:9px 9px 6px 9px; margin-bottom:30px; text-shadow: 1px 1px 1px #FFF; font-size:28px; font-family:"BebasNeueRegular"; }
+
+	/*     4.1. News     */
+	#news-wrapper { margin-bottom:24px; }
+	.news-item { border-bottom:1px solid #DDD; margin-bottom:30px; padding-bottom:25px; }
+	.news-thumb-wrapper { position:relative; }
+	.news-thumb-wrapper h1 { position:absolute; color:#FFF; left:40px; top:220px; background:#000; padding:8px 9px 7px 9px; font-size:24px; font-family:BebasNeueRegular; }
+	.news-thumb-wrapper h1 a { color:#FFF; }
+	.news-arrows { position:absolute; left:0; top:220px; height:44px; width:40px; background:url(./images/news-arrows.png) no-repeat; }
+	.news-meta-wrapper { background:url(./images/section-title.png) repeat; height:25px; border-bottom:1px solid #CCC; margin-top:-3px; padding:9px 9px 0 9px; margin-bottom:12px; }
+	.news-meta-wrapper span { text-shadow: 1px 1px 1px #FFF; font-weight:bold; text-transform: uppercase; letter-spacing:1px; }
+	.news-meta { color:#777; float:left; }
+	.news-cats { float:right; }
+	.news-comment { float:right; margin-left:15px; padding:0 0 0 18px; background:url(./images/comment.png) no-repeat left; }
+	.news-item p { line-height:18px; }
+	.news-heading { font-size:24px; font-family:BebasNeueRegular; margin-bottom:16px; }
+	.news-heading a { color:#000; }
+
+/***     5. Sidebar     ***/
+#sidebar { width:300px; float:right; }
+.widget { margin-bottom:20px; }
+.widget-title { background:url(./images/widget-top.png) no-repeat; color:#FFF; height:32px; padding:8px 0 0 50px; text-shadow: 1px 1px 1px #000; margin-bottom:20px; font-family:"BebasNeueRegular"; font-size:22px; }
+.widget-title.tabs { margin-bottom:0; }
+.widget-banner { margin-bottom:20px; overflow:hidden;}
+.widget li { margin-bottom:18px; background:url(./images/sidebar-bullet.png) no-repeat left; padding-left:16px; }
+.side-item { float:none !important; clear:both; margin-bottom:15px; padding-bottom:15px; border-bottom:1px dashed #CCC; overflow:hidden; position:relative; }
+.side-item.last { margin-bottom:0 }
+.side-item h4 { font-size:13px; font-weight:bold; margin-bottom:4px; }
+.side-review-heading { font-size:13px; font-weight:bold; margin-bottom:4px; width:200px; overflow:hidden; }
+.side-item-meta { color:#888; font-size:11px; font-style:italic; }
+.side-item-meta a { color:#888; }
+.side-item-cat { margin-bottom:2px; display:block; }
+.side-item-cat a { color:#666; }
+.side-item-thumb { float:left; margin-right:10px; height:60px; border:1px solid #CCC; }
+.panel-wrapper { background:url(./images/panel-bg.png) repeat-x; height:22px; padding:7px 0 0 9px; margin-bottom:20px; }
+.panel-wrapper a { margin-right:9px; color:#777; text-shadow: 1px 1px 1px #FFF; }
+.panel-wrapper a.selected { font-weight:bold; color:#3a3a3a; }
+#mask { width:300px; overflow:hidden; margin:0 auto; position:relative; }
+#panel div { float:left; width:300px; }
+
+	/*     5.1. Review widget     */
+	.side-score { position:absolute; top:0; right:10px; width:30px !important; height:21px; text-align:center; padding-top:5px; color:#FFF; font-weight:bold; text-shadow: 1px 1px 1px #444; }
+	.side-score.green { background:url(./images/small-rating-green.png) no-repeat; }
+	.side-score.darkgreen { background:url(./images/small-rating-darkgreen.png) no-repeat; }
+	.side-score.yellow { background:url(./images/small-rating-yellow.png) no-repeat; }
+	.side-score.darkred { background:url(./images/small-rating-darkred.png) no-repeat; }
+	.side-score.red { background:url(./images/small-rating-red.png) no-repeat; }
+	
+	/*     5.1. Twitter widget     */
+	.twitter-widget { margin-bottom:20px; color:#666; }
+	.twitter-widget li { background:url(./images/twitter.png) no-repeat top left; margin-bottom:15px; padding:0 0 15px 30px; border-bottom:1px dashed #CCC;  }
+	#twitter_div ul li span { line-height:18px; }
+	#twitter_div ul li span a { color:#006acd; display:inherit; font-size:12px !important; }
+	#twitter_div ul li a { color:#888; display:block; margin-top:6px; font-size:11px !important; }
+
+/***     6. Footer Section     ***/
+
+	/*     6.1. Footer top     */
+	#footer-top-wrapper { background:url(./images/footer-top-bg.png) repeat-x; height:55px; }
+	#footer-top { width:960px; margin:0 auto; padding-top:20px; }
+	#footer-top a { color:#797979; text-shadow: 1px 1px 1px #000; }
+	#footer-navigation li { display:block; float:left; margin-right:20px; }
+	#footer-navigation span { margin-right:10px; }
+	#back-top { float:right; background:url(./images/back-top.png) no-repeat right; padding-right:26px; }
+
+	/*     6.2. Footer     */
+	#footer-wrapper { background:url(./images/footer-bg.png) repeat; overflow:hidden; padding-bottom:20px; border-bottom:1px solid #000;  }
+	#footer { width:960px; margin:0 auto; padding-top:30px; color:#949494; text-shadow: 1px 1px 1px #000; }
+	.footer-widget { width:225px; }
+	.footer-widget a { color:#888; text-shadow: 1px 1px 1px #000; }
+	.footer-widget p { color:#666; text-shadow: 1px 1px 1px #000; line-height:18px; margin-bottom:18px; }
+	.footer-widget.left { float:left; margin-right:20px; }
+	.footer-widget.middle { float:left; margin-right:20px; }
+	.footer-widget.right { float:right; }
+	.footer-widget h3 { color:#FFF; text-shadow: 1px 1px 1px #000; background:url(./images/footer-line.png) repeat-x bottom; padding-bottom:6px; margin-bottom:20px; font-size:22px; font-family:"BebasNeueRegular"; }
+	.footer-widget li { margin-bottom:10px; background:url(./images/footer-bullet.png) no-repeat left; padding-left:16px; }
+	#footer .media-thumb img { width:220px; height:110px; border:1px solid #000; }
+	.footer-widget .side-item { float:none !important; clear:both; margin-bottom:15px; padding-bottom:15px; border-bottom:1px dashed #333 !important; overflow:hidden; position:relative; }
+	.footer-widget .side-item img { border:1px solid #000; }
+	
+	/*     6.3. Footer Twitter     */
+	#footer .twitter-widget li { background:url(./images/twitter.png) no-repeat top left; margin-bottom:15px; padding:0 0 15px 30px; border-bottom:1px dashed #333;  }
+	#footer #twitter_div ul li span a { color:#888; display:inherit; font-size:12px !important; }
+	
+	/*     6.4. Footer bottom    */
+	#footer-bottom-wrapper { height:38px; background:#111; border-top:1px solid #222; }
+	#footer-bottom { width:960px; margin:0 auto; padding-top:11px; }
+	.footer-bottom-left { float:left; text-shadow: 1px 1px 1px #000; }
+	.footer-bottom-right { float:right; text-shadow: 1px 1px 1px #000; }
+	
+/***     7. Post     ***/
+.post-meta { background:url(./images/postmeta-bg.png) repeat-x; color:#969696; font-style:italic; margin-bottom:15px; padding:8px 0 7px 4px; text-shadow: 1px 1px 1px #FFF; }
+.post-header { font-size:36px; margin-bottom:6px; color:#000; font-family:"BebasNeueRegular"; display:block; }
+.meta-comment { float:right; padding:0 4px 0 18px; background:url(./images/comment.png) no-repeat left; }
+.post-thumb { background:url(./images/img-bg.png) repeat; padding:0 0 10px 0; margin-bottom:20px; }
+.post-entry { margin-bottom:20px; overflow:auto;}
+.post-entry p { font-size:14px; line-height:20px; margin-bottom:20px; }
+.post-share { background:url(./images/img-bg.png) repeat; border-top:1px solid #cecece; border-bottom:1px solid #cecece; padding:10px 0 8px 10px; margin-bottom:20px; }
+.post-share p { float:left; font-weight:bold; font-size:14px; color:#4f4f4f; padding-top:8px; text-shadow: 1px 1px 1px #FFF; }
+.post-share ul { padding-left:22px; overflow:hidden; }
+.post-share li { float:left; margin-right:8px; }
+.page-links { float:right; font-size:14px; height:22px; }
+#about-author { overflow:hidden; background:url(./images/about-author-bg.png) repeat-x; padding:14px; border:1px solid #cecece; }
+#about-author h5 { font-size:14px; text-shadow: 1px 1px 1px #FFF; background:url(./images/author-line.png) repeat-x bottom; margin-bottom:8px; padding-bottom:8px; overflow:hidden; }
+#about-author h5 small { float:right; font-size:12px; font-style:italic; color:#888; text-shadow: 1px 1px 1px #FFF; }
+.author-descrip { line-height:18px; text-shadow: 1px 1px 1px #FFF; color:#555; }
+
+	/*     7.1. Review     */
+	.post-review { overflow:hidden; }
+	.line-top { background:url(./images/img-bg.png) repeat; height:10px; margin-bottom:12px; }
+	.line-bottom { background:url(./images/img-bg.png) repeat; height:10px; margin-top:12px; margin-bottom:20px; }
+	.review-thumb { float:left; margin-right:20px; }
+	.review-thumb img { border:1px solid #DDD; }
+	.review-score { border-bottom:1px dashed #CCC; overflow:hidden; padding-bottom:15px; margin-bottom:15px;}
+	.overall-score { width:102px; height:102px; float:left; position:relative; }
+	.overall-text { color:#777; position:absolute; left:40px; top:20px; font-size:10px; }
+	.the-score { color:#333; font-family:"BebasNeueRegular"; text-shadow: 1px 1px 1px #FFF; font-size:54px; position:absolute; width:100%; top:29px; text-align:center; }
+	.overall-score.green { background:url(./images/big-rating-green.png) no-repeat; }
+	.overall-score.darkgreen { background:url(./images/big-rating-darkgreen.png) no-repeat; }
+	.overall-score.yellow { background:url(./images/big-rating-yellow.png) no-repeat; }
+	.overall-score.darkred { background:url(./images/big-rating-darkred.png) no-repeat; }
+	.overall-score.red { background:url(./images/big-rating-red.png) no-repeat; }
+	.other-score { overflow:hidden; }
+	.score-item { margin-bottom:3px; overflow:hidden; position:relative; background:#FFF url(./images/score-bg.png) no-repeat; height:32px; }
+	.score-label { position:absolute; left:10px; top:8px; text-shadow: 1px 1px 1px #FFF; color:#666; }
+	.score-bg { height:32px; display:none; width:200px; position:absolute; left:131px; }
+	.score { color:#777; text-shadow: 1px 1px 1px #FFF; position:absolute; left:94px; top:8px; font-weight:bold; }
+	.pros { background:url(./images/pros.png) no-repeat; overflow:hidden; padding:3px 0 3px 36px; margin-bottom:12px; }
+	.pros p { color:#555; line-height:18px; }
+	.pros span { color:#BBB; margin:0 2px 0 2px; }
+	.cons { background:url(./images/cons.png) no-repeat; overflow:hidden; padding:0 0 3px 36px; }
+	.cons p { color:#555; line-height:18px; }
+	.cons span { color:#BBB; margin:0 2px 0 2px; }
+	
+	/*     7.2. Comments     */
+	#comments { margin-top:60px; }
+	#comments h3 { font-size:14px; border-bottom:1px dotted #d5d5d5; padding-bottom:6px; margin-bottom:30px; }
+	ol.commentlist { margin-bottom:30px; list-style:none; }
+	li.commentlist { list-style-type:none; list-style:none;}
+	.the-comment { margin-bottom:24px; }
+	.avatar { border:1px solid #CCC; float:left; margin-right:14px; }
+	.comment-arrow { background:url(./images/comment-arrow.png) no-repeat; width:8px; height:15px; float:left; margin-top:16px; margin-right:-1px; }
+	.comment-box { background:url(./images/comment-bg.png) repeat-x; border:1px solid #CCC; -moz-border-radius: 5px; -webkit-border-radius:5px; border-radius: 5px; padding:14px; overflow:hidden;  }
+	.comment-author { margin-bottom:10px; }
+	.comment-author small { color:#888; }
+	.comment-text { line-height:18px; }
+	.children { margin: 20px 0 0 83px; }
+	.children li.comment { margin: 0 0 20px 0; }
+	.cancel-comment-reply { margin-bottom:10px; }
+	.no-comments { color:#888; }
+	.comment-author a { color:#3a3a3a; }
+	.comment-text-side { color:#888; font-style:italic; line-height:18px; }
+	
+	#comment-input { float:left; margin-right:20px; }
+	#comment-input input { border:0; margin-bottom:17px; }
+	#comment-input input:focus, textarea:focus { outline:none; }
+	#comment-input label { display:block; margin-bottom:5px; }
+	#comment-input label .req { color:#999; }
+	.input-name { background:url(./images/input-name.png) no-repeat; width:198px; height:28px; padding:11px 10px 0 34px; }
+	.input-email { background:url(./images/input-email.png) no-repeat; width:198px; height:28px; padding:11px 10px 0 34px; }
+	.input-website { background:url(./images/input-website.png) no-repeat; width:198px; height:28px; padding:11px 10px 0 34px; }
+	#comment-textarea { float:left; }
+	.textarea-comment { background:url(./images/textarea-comment.png) no-repeat; border:0; width:308px; height:163px; padding:14px; font-family:arial; }
+	#comment-textarea label { display:block; margin-bottom:5px; }
+	#comment-textarea-admin { float:none; margin-bottom:16px; }
+	#comment-textarea-admin label { display:block; margin:10px 0 5px 0; }
+	#comment-submit { clear:both; float:left; margin-bottom:10px; }
+	#comment-submit-admin { clear:both; margin-bottom:10px; }
+	.comment-submit { background:url(./images/black-button.png) repeat-x; border:1px solid #000; padding:11px 10px 7px 10px; -moz-border-radius: 5px; -webkit-border-radius:5px; border-radius: 5px; font-family:"BebasNeueRegular"; font-size:18px; color:#FFF; text-shadow: 1px 1px 1px #000; cursor:pointer; }
+	.comment-submit:hover { background:url(./images/black-button.png) repeat-x; background-position:0 -42px;  }
+	
+	
+	/*     7.3. Screenshots     */
+	.post-screenshot ul { overflow:hidden; }
+	.post-screenshot li { float:left; margin:4px; }
+	.post-screenshot li img { border:1px solid #222; }
+	
+	/*     7.4. HTML Styling     */
+	.post-entry h1 { font-size:28px; margin-bottom:14px; font-family:"BebasNeueRegular"; }
+	.post-entry h2 { font-size:24px; margin-bottom:14px; font-family:"BebasNeueRegular"; }
+	.post-entry h3 { font-size:20px; margin-bottom:14px; font-family:"BebasNeueRegular"; }
+	.post-entry h4 { font-size:18px; margin-bottom:14px; font-family:"BebasNeueRegular"; }
+	.post-entry h5 { font-size:16px; margin-bottom:14px; font-family:"BebasNeueRegular"; }
+	.post-entry h6 { font-size:14px; margin-bottom:14px; font-family:"BebasNeueRegular"; }
+	.post-entry hr { border:0; background-color: #DDD; height:1px; margin-bottom:14px; color:#DDD; }
+	.post-entry ul { 	padding-left: 30px; margin-bottom:20px; font-size:14px; }
+	.post-entry ul li{ background:url(./images/ul-dot.png) no-repeat; padding-left:28px; margin-bottom:10px; }
+	.post-entry ol { padding-left:53px; margin-bottom:20px; font-size:14px; }
+	.post-entry ol li { list-style-type: decimal; margin-bottom:6px; }
+	.post-entry .alignright { float:right; margin:0 0 4px 10px; }
+	.post-entry .alignleft { float:left; margin:0 10px 4px 0; }
+	.post-entry blockquote { background:url(./images/quote.png) no-repeat; padding-left:32px; padding-top:3px; margin-left:25px; color:#777; font-style:italic; }
+	
+/***     8. Archives     ***/
+.pagination { margin-bottom:20px; clear:both; }
+.pagination-fix { height:10px; clear:both; }
+.pagination a { background:url(./images/pagination-bg.png) repeat-x; padding:5px 8px 5px 8px; border:1px solid #CCC; margin-right:3px; text-shadow: 1px 1px 1px #FFF;  }
+.pagination .current { font-weight:bold; background:url(./images/pagination-bg.png) repeat-x; padding:5px 8px 5px 8px; border:1px solid #CCC; margin-right:3px; text-shadow: 1px 1px 1px #FFF; }
+#archive-wrapper { margin-bottom:20px; }
+
+	/*     8.1. Review archive     */
+	#review-archive { margin-bottom:30px; }
+	.review-item { background:url(./images/review-bg.png) repeat-x; height:66px; padding:20px; }
+	.review-item.second { background:url(./images/review-second-bg.png) repeat-x; }
+	.review-item-thumb { float:left; margin-right:20px; }
+	.review-item-thumb img { border:1px solid #333333; }
+	.review-item h5 { font-family:"BebasNeueRegular"; font-size:23px; margin-bottom:6px; }
+	.review-item h5 a { color:#000; }
+	.review-item h5 small { color:#777; font-size:13px; font-family:Arial; text-shadow: 1px 1px 1px #FFF; }
+	.review-item h5 small a { color:#777; }
+	.review-item-date { font-weight:bold; float:left; margin-right:5px; line-height:18px; color:#656565; text-transform: uppercase; text-shadow: 1px 1px 1px #FFF; }
+	.review-item p { line-height:18px; color:#656565; text-shadow: 1px 1px 1px #FFF; }
+	.archive-score { float:left; width:30px; height:21px; margin-right:10px; text-align:center; color:#FFF; font-weight:bold; text-shadow: 1px 1px 1px #444; padding-top:5px; }
+	.archive-score.green { background:url(./images/small-rating-green.png) no-repeat; }
+	.archive-score.darkgreen { background:url(./images/small-rating-darkgreen.png) no-repeat; }
+	.archive-score.yellow { background:url(./images/small-rating-yellow.png) no-repeat; }
+	.archive-score.darkred { background:url(./images/small-rating-darkred.png) no-repeat; }
+	.archive-score.red { background:url(./images/small-rating-red.png) no-repeat; }
+	
+	/*     8.1. Video + Screenshot archive     */
+	#media-wrapper { margin-bottom:10px; overflow:hidden; }
+	.media-item { float:left; width:290px; margin:0 10px 10px 0; }
+	.media-item.last { float:right; margin:0; }
+	.media-arrows { background:url(./images/media-arrows.png) no-repeat; width:30px; height:29px; position:absolute; top:100px; left:1px; }
+	.media-item h4 { margin-bottom:4px; position:absolute; top:100px; left:31px; color:#FFF; background:#000; font-size:14px; padding:6px; font-family:"BebasNeueRegular"; }
+	.media-item h4 a { color:#FFF; }
+	.media-thumb { position:relative; margin-right:12px; float:left; }
+	.media-thumb img { border:1px solid #CCC; }
+	.video-icon { background:url(./images/video-icon.png) no-repeat; height:21px; width:24px; position:absolute; right:8px; top:8px; }
+	.screenshot-icon { background:url(./images/screenshot-icon.png) no-repeat; height:21px; width:24px; position:absolute; right:8px; top:8px; }
+	.media-meta-wrapper { background:url(./images/section-title.png) repeat; height:25px; border-bottom:1px solid #CCC; margin-top:-3px; padding:9px 9px 0 9px; }
+	.media-meta-wrapper span { text-shadow: 1px 1px 1px #FFF; font-weight:bold; text-transform: uppercase; letter-spacing:1px; }
+	.media-meta { color:#777; float:left; }
+	.media-cats { float:right; color:#777; }
+
+/***	9. Fontface		***/
+@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('./fonts/BebasNeue-webfont.eot');
+    src: url('./fonts/BebasNeue-webfont.eot?iefix') format('eot'),
+         url('./fonts/BebasNeue-webfont.woff') format('woff'),
+         url('./fonts/BebasNeue-webfont.ttf') format('truetype'),
+         url('./fonts/BebasNeue-webfont.svg#webfont4Bjy2lJe') format('svg');
+    font-weight: normal;
+}
+
+/***	10. Shortcodes		***/
+	
+	/*     10.1. Buttons    */
+	.button { padding:11px 10px 9px 10px; display:inline-block; margin:0 10px 20px 0; -moz-border-radius: 5px; -webkit-border-radius:5px; border-radius: 5px; font-family:"BebasNeueRegular"; font-size:18px; cursor:pointer; }
+	.button a { color:#FFF; text-shadow: 1px 1px 1px #000; }
+	.button a:hover { text-decoration:none; }
+	.button.black { background:url(./images/black-button.png) repeat-x; border:1px solid #000; }
+	.button.black:hover { background:url(./images/black-button.png) repeat-x; background-position:0 -42px; }
+	.button.red { background:url(./images/red-button.png) repeat-x; border:1px solid #690000; }
+	.button.red:hover { background:url(./images/red-button.png) repeat-x; background-position:0 -42px; }
+	.button.green { background:url(./images/green-button.png) repeat-x; border:1px solid #0e5800; }
+	.button.green:hover { background:url(./images/green-button.png) repeat-x; background-position:0 -42px; }
+	.button.blue { background:url(./images/blue-button.png) repeat-x; border:1px solid #003162; }
+	.button.blue:hover { background:url(./images/blue-button.png) repeat-x; background-position:0 -42px; }
+	.button.orange { background:url(./images/orange-button.png) repeat-x; border:1px solid #824700; }
+	.button.orange:hover { background:url(./images/orange-button.png) repeat-x; background-position:0 -42px; }
+	.button.light { background:url(./images/light-button.png) repeat-x; border:1px solid #afafaf; }
+	.button.light a { color:#5d5d5d; text-shadow: 1px 1px 1px #FFF; }
+	.button.light:hover { background:url(./images/light-button.png) repeat-x; background-position:0 -42px; }
+	
+	/*     10.2. Dropcap    */
+	.dropcap { font-size:36px; margin-right:6px; padding-top:4px; text-transform: uppercase; float: left; position: relative; top: 5px; color:#888; }
+	
+	/*     10.3. Video shortcodes    */
+	.video-shortcode { margin-bottom:20px; }
+	
+	/*     10.4. Highlight    */
+	.highlight1 { background:#f6f67a; }
+	.highlight2 { background:#000; color:#CCC; }
+	
+	/*     10.5. Checklist    */
+	.checklist li { background:url(./images/check-list.png) no-repeat left !important; }
+	
+	/*     10.6. Badlist    */
+	.badlist li { background:url(./images/bad-list.png) no-repeat left !important; }
+	
+	/*     10.7. Tabs    */
+	ul.tabs {margin:0 !important;padding:0;height:36px;clear:left;}
+	ul.tabs li {float:left;padding:0; margin:0; list-style-type:none;}
+	ul.tabs a { float:left; display:block; padding:7px 15px 0 15px; text-decoration:none; height:27px; margin-right:3px; position:relative; top:1px; font-family:"BebasNeueRegular"; font-size:18px; text-shadow: 1px 1px 1px #000; -moz-border-radius: 5px 5px 0 0; -webkit-border-radius:5px 5px 0 0; border-radius: 5px 5px 0 0; }
+	ul.tabs a.current{cursor:default;}
+	.tab-content{display:none;padding:20px 20px 0 20px;overflow:hidden;}
+	.tabs-wrapper ul.tabs {border-bottom:1px solid #999;}
+	.tabs-wrapper ul.tabs a { border:1px solid #000; background:url(./images/tabs-bg.png) repeat-x; background-position:0 -34px; color:#CCC; }
+	.tabs-wrapper ul.tabs a:hover {background:url(./images/tabs-bg.png) repeat-x;color:#FFF; }
+	.tabs-wrapper ul.tabs a.current { border:1px solid #000; background:url(./images/tabs-bg.png) repeat-x; color:#FFF; }
+	.tabs-wrapper .tab-content { background:url(./images/tab-content-bg.png) repeat-x; border:1px solid #999; border-width:0 1px 1px 1px;}
+	.tabs-wrapper{ margin-bottom:20px; }
+	
+	/*     10.8. Toggles    */
+	.toggle { background:url(./images/black-button.png) repeat-x; border:1px solid #000; padding:11px 10px 9px 14px; -moz-border-radius: 5px; -webkit-border-radius:5px; border-radius: 5px; cursor:pointer; margin-bottom:6px; }
+	.toggle:hover { background:url(./images/black-button.png) repeat-x; background-position:0 -42px; }
+	.toggle a { background:url(./images/toggle-arrow.png) no-repeat left; color:#FFF; text-decoration:none; padding-left:30px; font-family:"BebasNeueRegular"; text-shadow: 1px 1px 1px #000;  font-size:18px; }
+	.toggle-content { display:none; background:#e6e6e6; -moz-border-radius: 5px; -webkit-border-radius:5px; border-radius: 5px; padding:20px; border:1px solid #DDD; font-size:14px; line-height:18px; text-shadow: 1px 1px 1px #FFF; margin-bottom:16px; }
+	.toggle-content .block {padding:0px;}
+	
+	/*     10.9. Columns    */
+	.one_half, .one_third, .two_third, .three_fourth, .one_fourth { margin-right: 4%; float: left; font-size:14px; line-height:18px; margin-bottom:20px; }
+	.one_half { 	width: 48%; }
+	.one_third { width: 30.6666%; }
+	.two_third { width: 65.3332%; }
+	.one_fourth { width: 22%; }
+	.three_fourth { width: 74%; }
+	.last { margin-right: 0 !important; clear: right; }
+	.clearboth{ clear: both; display: block; font-size: 0px; height: 0px; line-height: 0; width: 100%; overflow:hidden; }
+
+	/*     10.10. Game Info    */
+	.gameinfo { background:url(./images/black-button.png) repeat-x; border:1px solid #000; padding:11px 10px 9px 14px; -moz-border-radius: 5px; -webkit-border-radius:5px; border-radius: 5px; cursor:pointer; margin-bottom:6px;}
+	.gameinfo:hover { background:url(./images/black-button.png) repeat-x; background-position:0 -42px; }
+	.gameinfo a { background:url(./images/toggle-arrow.png) no-repeat left; color:#FFF; text-decoration:none; padding-left:30px; font-family:"BebasNeueRegular"; text-shadow: 1px 1px 1px #000; font-size:18px; }
+	.gameinfo-content { display:none; background:url(./images/img-bg.png) repeat; -moz-border-radius: 5px; -webkit-border-radius:5px; border-radius:5px; padding:20px 20px 10px 20px; border:1px solid #D1D1D1; margin-bottom:16px; }
+	.gameinfo-content .gameinfo-block { padding:0px; }
+	p.gameinfo-item { background:#FFF; padding:6px 6px 6px 10px; border:1px solid #D1D1D1; color:#777; font-size:12px; margin-bottom:10px; line-height:18px; }
+	.gameinfo-item strong { margin-right:8px; }
+	
+/***	10. Search Page		***/
+#search-wrapper { margin-bottom:30px; }
+.search-item { margin-bottom:15px; padding-bottom:15px; border-bottom:1px dashed #CCC; }
+.search-item h4 { font-family:"BebasNeueRegular"; font-size:18px; margin-bottom:3px; }
+.search-item h4 a { color:#000; }
+.search-item span { color:#AAA; margin-right:2px; }
+.search-item .search-date { font-size:11px; color:#888; font-style:italic; margin-bottom:6px; }
+.search-item .search-date a { color:#888; }
+.search-text { line-height:18px; }
+
+
+
+.wp-caption { color:#a3a3a3; font-style:italic; margin-top:6px; font-size:11px !important; }

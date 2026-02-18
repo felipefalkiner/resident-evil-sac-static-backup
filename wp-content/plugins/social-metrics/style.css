@@ -1,0 +1,949 @@
+.smwrap {
+color:#21759b;
+}
+.smwrap .tablenav a:hover{
+color:#ffffff;
+background:#9bbb59;
+}
+.smpro-welcome,
+.smpro-settings {
+display: inline-block;
+}
+.smpro-welcome img {
+margin-top: -1px;
+}
+.smpro-welcome a {
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+box-shadow: none !important;
+padding: 4px 4px 5px 3px !important;
+}
+img.alignleft {
+display: inline;
+margin: 0 10px 10px 0;
+}
+.pro-features{
+float:left;
+width: 750px;
+padding-bottom: 30px;
+}
+.feature_box {
+border-radius: 3px;
+float:left;
+margin-left: 10px;
+max-width: 300px;
+}
+.feature_box.odd {
+clear:left;
+}
+.feature_box.even {
+margin-left: 20px;
+}
+.feature_text{
+font-size: 1.1em;
+line-height: 1.5em;
+}
+.smwrap h2 {
+color: #1e598e;
+}
+.sm-branding {
+background: #e3edf4 url('./images/sm-logo-50.png') left center no-repeat;
+color:#1e598e;
+height:40px;
+text-shadow: rgba(255,255,255,0.8) 0 1px 0;
+text-indent:64px;
+margin:4px 0px;
+border: 1px solid #c9dbec;
+border-radius: 5px 5px 5px 5px;
+-moz-border-radius: 5px 5px 5px 5px;
+-webkit-border-top-left-radius: 5px;
+-webkit-border-bottom-left-radius: 5px;
+-webkit-border-top-right-radius: 5px;
+-webkit-border-bottom-right-radius: 5px;
+border-top-left-radius: 5px 5px;
+border-bottom-left-radius: 5px 5px;
+border-top-right-radius: 5px 5px;
+border-bottom-right-radius: 5px 5px;
+}
+.smtable {
+border:none;
+border-right:1px solid #c9dbec;
+background-color: #fff;
+}
+.widefat thead tr th{
+	background:#e3edf4;
+	color:#1e598e;
+	border-bottom:none;
+	border-right:none;
+	text-shadow:none;
+}
+.widefat thead tr th:hover, .widefat tfoot tr th:hover{
+	background:#9bbb59;
+	color:#ffffff;
+	border-bottom:none;
+	border-right:none;
+	text-shadow:none;
+}
+.widefat tfoot tr th{
+	background:#e3edf4;
+	color:#1e598e;
+	border-top:none;
+	border-right:none;
+	text-shadow:none;
+}
+.widefat thead th:first-of-type{
+text-align:left;
+}
+.widefat tfoot th:first-of-type{
+text-align:left;
+}
+.widefat tbody td:first-of-type{
+text-align:left;
+font-size:11px;
+font-weight:normal;
+}
+.widefat thead th:first-of-type a:hover{
+color:#ffffff;
+background:#9bbb59;
+}
+.widefat tfoot th:first-of-type a:hover{
+color:#ffffff;
+background:#9bbb59;
+}
+.widefat tbody td:first-of-type a:hover{
+color:#ffffff;
+background:#9bbb59;
+}
+.widefat tbody tr:last-of-type td{
+border-bottom: 1px solid #c9dbec;
+}
+.widefat tfoot tr:last-of-type th{
+border-bottom: 1px solid #c9dbec;
+}
+.widefat th {
+padding: 7px 7px 8px;
+text-align: left;
+line-height: 1.3em;
+text-shadow:none;
+/*text-shadow: rgba(255,255,255,0.8) 0 1px 0;*/
+}
+.widefat td, .widefat th {
+overflow: hidden;
+border-color: #c9dbec;
+border-width: 1px;
+border-style: solid;
+text-align:center;
+vertical-align: middle;
+font-size: 11px;
+}
+.widefat td {
+color:#14455D;
+font-weight:bold;
+border-bottom:none;
+border-right:none;
+}
+.tablenav .tablenav-pages .current {
+color:#21759b;
+background: #e3edf4;
+border-color: #c9dbec;
+vertical-align: middle;
+}
+.tablenav .tablenav-pages a {
+vertical-align: middle;
+background: #CFE0EC;
+border-color: #c9dbec;
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+box-shadow: none !important;
+}
+.tablenav .tablenav-pages a:hover{
+color:#ffffff;
+background: #9bbb59;
+border-color: #9bbb59;
+}
+/*.tablenav .tablenav-pages .sm-opt a {
+vertical-align: middle;
+background: #ffffff;
+border-color: #ffffff;
+}
+.tablenav .tablenav-pages .sm-opt a:hover {
+background: #ffffff;
+border-color: #ffffff;
+}*/
+.tablenav .tablenav-pages a img{
+vertical-align: middle;
+}
+.tablenav .tablenav-pages .sm-export{
+background: none;
+width:40px;
+border:none;
+padding:0px;
+margin:0px auto;
+}
+.tablenav .dots {
+color:#21759b;
+border-color: transparent;
+}
+.tablenav .displaying-num{
+color:#21759b;
+}
+input[type="text"], input[type="button"], input[type="submit"], select {
+border-color: #c9dbec;
+color:#21759b
+background-color: #fff;
+}
+.tweetit{
+ background:#e3edf4;
+ border: 1px solid #c9dbec;
+ color:#21759b;
+ padding:5px;
+ font-size:12px;
+ font-family: Verdana, Geneva, sans-serif;
+ text-decoration:none;
+ margin:5px; 
+ -moz-border-radius: 5px; 
+ -khtml-border-radius: 5px; 
+ -webkit-border-radius: 5px; 
+ border-radius: 5px;
+}
+.tweetlink{
+float:left;
+margin:3px 0px 5px 0px;
+}
+.twwetlink a:hover{
+ background:#9bbb59;
+ border: 1px solid #9bbb59;
+ color:#ffffff;
+ text-decoration:none;
+}
+.sm-help img{
+margin-left: 5px;
+margin-bottom:-2px;
+cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+/*
+ * jQuery UI CSS Framework 1.8.14
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Theming/API
+ */
+
+/* Layout helpers
+----------------------------------*/
+.ui-helper-hidden { display: none; }
+.ui-helper-hidden-accessible { position: absolute !important; clip: rect(1px 1px 1px 1px); clip: rect(1px,1px,1px,1px); }
+.ui-helper-reset { margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none; }
+.ui-helper-clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.ui-helper-clearfix { display: inline-block; }
+/* required comment for clearfix to work in Opera \*/
+* html .ui-helper-clearfix { height:1%; }
+.ui-helper-clearfix { display:block; }
+/* end clearfix */
+.ui-helper-zfix { width: 100%; height: 100%; top: 0; left: 0; position: absolute; opacity: 0; filter:Alpha(Opacity=0); }
+
+
+/* Interaction Cues
+----------------------------------*/
+.ui-state-disabled { cursor: default !important; }
+
+
+/* Icons
+----------------------------------*/
+
+/* states and images */
+.ui-icon { display: block; text-indent: -99999px; overflow: hidden; background-repeat: no-repeat; }
+
+
+/* Misc visuals
+----------------------------------*/
+
+/* Overlays */
+.ui-widget-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+/*
+ * jQuery UI CSS Framework 1.8.14
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Theming/API
+ *
+ * To view and modify this theme, visit http://jqueryui.com/themeroller/?ffDefault=Verdana,Arial,sans-serif&fwDefault=normal&fsDefault=1.1em&cornerRadius=5px&bgColorHeader=1e598e&bgTextureHeader=12_gloss_wave.png&bgImgOpacityHeader=75&borderColorHeader=1e598e&fcHeader=eaf5f7&iconColorHeader=d8e7f3&bgColorContent=fcfdfd&bgTextureContent=06_inset_hard.png&bgImgOpacityContent=100&borderColorContent=a6c9e2&fcContent=222222&iconColorContent=0078ae&bgColorDefault=e3edf4&bgTextureDefault=02_glass.png&bgImgOpacityDefault=45&borderColorDefault=c9dbec&fcDefault=1e598e&iconColorDefault=e0fdff&bgColorHover=79ab12&bgTextureHover=04_highlight_hard.png&bgImgOpacityHover=50&borderColorHover=9bbb59&fcHover=ffffff&iconColorHover=e0fdff&bgColorActive=79ab12&bgTextureActive=04_highlight_hard.png&bgImgOpacityActive=50&borderColorActive=9bbb59&fcActive=ffffff&iconColorActive=f5e175&bgColorHighlight=f8da4e&bgTextureHighlight=02_glass.png&bgImgOpacityHighlight=55&borderColorHighlight=fcd113&fcHighlight=915608&iconColorHighlight=f7a50d&bgColorError=e14f1c&bgTextureError=12_gloss_wave.png&bgImgOpacityError=45&borderColorError=cd0a0a&fcError=ffffff&iconColorError=fcd113&bgColorOverlay=aaaaaa&bgTextureOverlay=01_flat.png&bgImgOpacityOverlay=75&opacityOverlay=30&bgColorShadow=999999&bgTextureShadow=01_flat.png&bgImgOpacityShadow=55&opacityShadow=45&thicknessShadow=0px&offsetTopShadow=5px&offsetLeftShadow=5px&cornerRadiusShadow=5px
+ */
+
+
+/* Component containers
+----------------------------------*/
+.ui-widget { font-family: Verdana,Arial,sans-serif; font-size: 1.1em; }
+.ui-widget .ui-widget { font-size: 1em; }
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-family: Verdana,Arial,sans-serif; font-size: 1em; }
+.ui-widget-content { border: 1px solid #a6c9e2; background: #fcfdfd url(./images/ui-bg_inset-hard_100_fcfdfd_1x100.png) 50% bottom repeat-x; color: #222222; }
+.ui-widget-content a { color: #222222; }
+.ui-widget-header { border: 1px solid #1e598e; background: #1e598e url(./images/ui-bg_gloss-wave_75_1e598e_500x100.png) 50% 50% repeat-x; color: #eaf5f7; font-weight: bold; }
+.ui-widget-header a { color: #eaf5f7; }
+
+/* Interaction states
+----------------------------------*/
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { border: 1px solid #c9dbec; background: #e3edf4 url(./images/ui-bg_glass_45_e3edf4_1x400.png) 50% 50% repeat-x; font-weight: normal; color: #1e598e; }
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited { color: #1e598e; text-decoration: none; }
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus { border: 1px solid #9bbb59; background: #79ab12 url(./images/ui-bg_highlight-hard_50_79ab12_1x100.png) 50% 50% repeat-x; font-weight: normal; color: #ffffff; }
+.ui-state-hover a, .ui-state-hover a:hover { color: #ffffff; text-decoration: none; }
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active { border: 1px solid #9bbb59; background: #79ab12 url(./images/ui-bg_highlight-hard_50_79ab12_1x100.png) 50% 50% repeat-x; font-weight: normal; color: #ffffff; }
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited { color: #ffffff; text-decoration: none; }
+.ui-widget :active { outline: none; }
+
+/* Interaction Cues
+----------------------------------*/
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight  {border: 1px solid #fcd113; background: #f8da4e url(./images/ui-bg_glass_55_f8da4e_1x400.png) 50% 50% repeat-x; color: #915608; }
+.ui-state-highlight a, .ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a { color: #915608; }
+.ui-state-error, .ui-widget-content .ui-state-error, .ui-widget-header .ui-state-error {border: 1px solid #cd0a0a; background: #e14f1c url(./images/ui-bg_gloss-wave_45_e14f1c_500x100.png) 50% top repeat-x; color: #ffffff; }
+.ui-state-error a, .ui-widget-content .ui-state-error a, .ui-widget-header .ui-state-error a { color: #ffffff; }
+.ui-state-error-text, .ui-widget-content .ui-state-error-text, .ui-widget-header .ui-state-error-text { color: #ffffff; }
+.ui-priority-primary, .ui-widget-content .ui-priority-primary, .ui-widget-header .ui-priority-primary { font-weight: bold; }
+.ui-priority-secondary, .ui-widget-content .ui-priority-secondary,  .ui-widget-header .ui-priority-secondary { opacity: .7; filter:Alpha(Opacity=70); font-weight: normal; }
+.ui-state-disabled, .ui-widget-content .ui-state-disabled, .ui-widget-header .ui-state-disabled { opacity: .35; filter:Alpha(Opacity=35); background-image: none; }
+
+/* Misc visuals
+----------------------------------*/
+
+/* Corner radius */
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl { -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; border-top-left-radius: 5px; }
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr { -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; border-top-right-radius: 5px; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl { -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; border-bottom-left-radius: 5px; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br { -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; border-bottom-right-radius: 5px; }
+
+/* Overlays */
+.ui-widget-overlay { background: #aaaaaa url(./images/ui-bg_flat_75_aaaaaa_40x100.png) 50% 50% repeat-x; opacity: .30;filter:Alpha(Opacity=30); }
+.ui-widget-shadow { margin: 5px 0 0 5px; padding: 0px; background: #999999 url(./images/ui-bg_flat_55_999999_40x100.png) 50% 50% repeat-x; opacity: .45;filter:Alpha(Opacity=45); -moz-border-radius: 5px; -khtml-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }/*
+/*
+ * jQuery UI Button 1.8.14
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Button#theming
+ */
+.ui-button { display: inline-block; position: relative; padding: 0; margin-right: .1em; text-decoration: none !important; cursor: pointer; text-align: center; zoom: 1; overflow: visible; } /* the overflow property removes extra width in IE */
+.ui-button-icon-only { width: 2.2em; } /* to make room for the icon, a width needs to be set here */
+button.ui-button-icon-only { width: 2.4em; } /* button elements seem to need a little more width */
+.ui-button-icons-only { width: 3.4em; } 
+button.ui-button-icons-only { width: 3.7em; } 
+
+/*button text element */
+.ui-button .ui-button-text { display: block; line-height: 1.4;  }
+.ui-button-text-only .ui-button-text { padding: .4em 1em; }
+.ui-button-icon-only .ui-button-text, .ui-button-icons-only .ui-button-text { padding: .4em; text-indent: -9999999px; }
+.ui-button-text-icon-primary .ui-button-text, .ui-button-text-icons .ui-button-text { padding: .4em 1em .4em 2.1em; }
+.ui-button-text-icon-secondary .ui-button-text, .ui-button-text-icons .ui-button-text { padding: .4em 2.1em .4em 1em; }
+.ui-button-text-icons .ui-button-text { padding-left: 2.1em; padding-right: 2.1em; }
+/* no icon support for input elements, provide padding by default */
+input.ui-button { padding: .4em 1em; }
+
+/*button icon element(s) */
+.ui-button-icon-only .ui-icon, .ui-button-text-icon-primary .ui-icon, .ui-button-text-icon-secondary .ui-icon, .ui-button-text-icons .ui-icon, .ui-button-icons-only .ui-icon { position: absolute; top: 50%; margin-top: -8px; }
+.ui-button-icon-only .ui-icon { left: 50%; margin-left: -8px; }
+.ui-button-text-icon-primary .ui-button-icon-primary, .ui-button-text-icons .ui-button-icon-primary, .ui-button-icons-only .ui-button-icon-primary { left: .5em; }
+.ui-button-text-icon-secondary .ui-button-icon-secondary, .ui-button-text-icons .ui-button-icon-secondary, .ui-button-icons-only .ui-button-icon-secondary { right: .5em; }
+.ui-button-text-icons .ui-button-icon-secondary, .ui-button-icons-only .ui-button-icon-secondary { right: .5em; }
+
+/*button sets*/
+.ui-buttonset { margin-right: 7px; }
+.ui-buttonset .ui-button { margin-left: 0; margin-right: -.3em; }
+
+/* workarounds */
+button.ui-button::-moz-focus-inner { border: 0; padding: 0; } /* reset extra padding in Firefox */
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+* qTip2 - Pretty powerful tooltips
+* http://craigsworks.com/projects/qtip2/
+*
+* Version: nightly
+* Copyright 2009-2010 Craig Michael Thompson - http://craigsworks.com
+*
+* Dual licensed under MIT or GPLv2 licenses
+*   http://en.wikipedia.org/wiki/MIT_License
+*   http://en.wikipedia.org/wiki/GNU_General_Public_License
+*
+* Date: Fri Jul  8 03:46:50 PDT 2011
+*/
+
+/* Core qTip styles */
+.ui-tooltip, .qtip{
+	position: absolute;
+	left: -28000px;
+	top: -28000px;
+	display: none;
+
+	max-width: 280px;
+	min-width: 50px;
+	
+	font-size: 10.5px;
+	line-height: 12px;
+
+	z-index: 15000;
+}
+
+	/* Fluid class for determining actual width in IE */
+	.ui-tooltip-fluid{
+		display: block;
+		visibility: hidden;
+		position: static !important;
+		float: left !important;
+	}
+
+	.ui-tooltip-content{
+		position: relative;
+		padding: 5px 9px;
+		overflow: hidden;
+		
+		border-width: 1px;
+		border-style: solid;
+		
+		text-align: left;
+		word-wrap: break-word;
+		overflow: hidden;
+	}
+
+	.ui-tooltip-titlebar{
+		position: relative;
+		min-height: 14px;
+		padding: 5px 35px 5px 10px;
+		overflow: hidden;
+		
+		border-width: 1px 1px 0;
+		border-style: solid;
+
+		font-weight: bold;
+	}
+
+	.ui-tooltip-titlebar + .ui-tooltip-content{ border-top-width: 0px !important; }
+
+		/*! Default close button class */
+		.ui-tooltip-titlebar .ui-state-default{
+			position: absolute;
+			right: 4px;
+			top: 50%;
+			margin-top: -9px;
+
+			cursor: pointer;
+			outline: medium none;
+
+			border-width: 1px;
+			border-style: solid;
+		}
+		
+		* html .ui-tooltip-titlebar .ui-state-default{ top: 16px; } /* IE fix */
+
+		.ui-tooltip-titlebar .ui-icon,
+		.ui-tooltip-icon .ui-icon{
+			display: block;
+			text-indent: -1000em;
+		}
+
+		.ui-tooltip-icon, .ui-tooltip-icon .ui-icon{
+			-moz-border-radius: 3px;
+			-webkit-border-radius: 3px;
+			border-radius: 3px;
+		}
+
+			.ui-tooltip-icon .ui-icon{
+				width: 18px;
+				height: 14px;
+
+				text-align: center;
+				text-indent: 0;
+				font: normal bold 10px/13px Tahoma,sans-serif;
+
+				color: inherit;
+				background: transparent none no-repeat -100em -100em;
+			}
+
+
+/* Applied to 'focused' tooltips e.g. most recently displayed/interacted with */
+.ui-tooltip-focus{
+
+}
+
+/* Applied on hover of tooltips i.e. added/removed on mouseenter/mouseleave respectively */
+.ui-tooltip-hover{
+	
+}
+
+
+/*! Default tooltip style */
+.ui-tooltip-default .ui-tooltip-titlebar,
+.ui-tooltip-default .ui-tooltip-content{
+	border-color: #F1D031;
+	background-color: #FFFFA3;
+	color: #555;
+}
+
+	.ui-tooltip-default .ui-tooltip-titlebar{
+		background-color: #FFEF93;
+	}
+
+	.ui-tooltip-default .ui-tooltip-icon{
+		border-color: #CCC;
+		background: #F1F1F1;
+		color: #777;
+	}
+	
+	.ui-tooltip-default .ui-tooltip-titlebar .ui-state-hover{
+		border-color: #AAA;
+		color: #111;
+	}
+
+/* Tips plugin */
+.ui-tooltip .ui-tooltip-tip{
+	margin: 0 auto;
+	overflow: hidden;
+
+	background: transparent !important;
+	border: 0px dashed transparent !important;
+	z-index: 10;
+}
+
+	.ui-tooltip .ui-tooltip-tip,
+	.ui-tooltip .ui-tooltip-tip *{
+		position: absolute;
+		
+		line-height: 0.1px !important;
+		font-size: 0.1px !important;
+		color: #123456;
+
+		background: transparent;
+		border: 0px dashed transparent;
+	}
+	
+	.ui-tooltip .ui-tooltip-tip canvas{ top: 0; left: 0; }
+
+
+/*! Light tooltip style */
+.ui-tooltip-light .ui-tooltip-titlebar,
+.ui-tooltip-light .ui-tooltip-content{
+	border-color: #E2E2E2;
+	color: #454545;
+}
+
+	.ui-tooltip-light .ui-tooltip-content{
+		background-color: white;
+	}
+
+	.ui-tooltip-light .ui-tooltip-titlebar{
+		background-color: #f1f1f1;
+	}
+
+
+/*! Dark tooltip style */
+.ui-tooltip-dark .ui-tooltip-titlebar,
+.ui-tooltip-dark .ui-tooltip-content{
+	border-color: #303030;
+	color: #f3f3f3;
+}
+
+	.ui-tooltip-dark .ui-tooltip-content{
+		background-color: #505050;
+	}
+
+	.ui-tooltip-dark .ui-tooltip-titlebar{
+		background-color: #404040;
+	}
+
+	.ui-tooltip-dark .ui-tooltip-icon{
+		border-color: #444;
+	}
+
+	.ui-tooltip-dark .ui-tooltip-titlebar .ui-state-hover{
+		border-color: #303030;
+	}
+
+
+/*! Cream tooltip style */
+.ui-tooltip-cream .ui-tooltip-titlebar,
+.ui-tooltip-cream .ui-tooltip-content{
+	border-color: #F9E98E;
+	color: #A27D35;
+}
+
+	.ui-tooltip-cream .ui-tooltip-content{
+		background-color: #FBF7AA;
+	}
+
+	.ui-tooltip-cream .ui-tooltip-titlebar{
+		background-color: #F0DE7D;
+	}
+
+	.ui-tooltip-cream .ui-state-default .ui-tooltip-icon{
+		background-position: -82px 0;
+	}
+
+
+/*! Red tooltip style */
+.ui-tooltip-red .ui-tooltip-titlebar,
+.ui-tooltip-red .ui-tooltip-content{
+	border-color: #D95252;
+	color: #912323;
+}
+
+	.ui-tooltip-red .ui-tooltip-content{
+		background-color: #F78B83;
+	}
+
+	.ui-tooltip-red .ui-tooltip-titlebar{
+		background-color: #F06D65;
+	}
+
+	.ui-tooltip-red .ui-state-default .ui-tooltip-icon{
+		background-position: -102px 0;
+	}
+
+	.ui-tooltip-red .ui-tooltip-icon{
+		border-color: #D95252;
+	}
+
+	.ui-tooltip-red .ui-tooltip-titlebar .ui-state-hover{
+		border-color: #D95252;
+	}
+
+
+/*! Green tooltip style */
+.ui-tooltip-green .ui-tooltip-titlebar,
+.ui-tooltip-green .ui-tooltip-content{
+	border-color: #90D93F;
+	color: #3F6219;
+}
+
+	.ui-tooltip-green .ui-tooltip-content{
+		background-color: #CAED9E;
+	}
+
+	.ui-tooltip-green .ui-tooltip-titlebar{
+		background-color: #B0DE78;
+	}
+
+	.ui-tooltip-green .ui-state-default .ui-tooltip-icon{
+		background-position: -42px 0;
+	}
+
+
+/*! Blue tooltip style */
+.ui-tooltip-blue .ui-tooltip-titlebar,
+.ui-tooltip-blue .ui-tooltip-content{
+	border-color: #ADD9ED;
+	color: #5E99BD;
+}
+
+	.ui-tooltip-blue .ui-tooltip-content{
+		background-color: #E5F6FE;
+	}
+
+	.ui-tooltip-blue .ui-tooltip-titlebar{
+		background-color: #D0E9F5;
+	}
+
+	.ui-tooltip-blue .ui-state-default .ui-tooltip-icon{
+		background-position: -2px 0;
+	}
+
+/*! Add shadows to your tooltips in: FF3+, Chrome 2+, Opera 10.6+, IE6+, Safari 2+ */
+.ui-tooltip-shadow{
+	-webkit-box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.15);
+	-moz-box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.15);
+	box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.15);
+}
+
+	.ui-tooltip-shadow .ui-tooltip-titlebar,
+	.ui-tooltip-shadow .ui-tooltip-content{
+		filter: progid:DXImageTransform.Microsoft.Shadow(Color='gray', Direction=135, Strength=3);
+		-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Color='gray', Direction=135, Strength=3)";
+
+		_margin-bottom: -3px; /* IE6 */
+		.margin-bottom: -3px; /* IE7 */
+	}
+
+
+/*! Add rounded corners to your tooltips in: FF3+, Chrome 2+, Opera 10.6+, IE9+, Safari 2+ */
+.ui-tooltip-rounded,
+.ui-tooltip-rounded .ui-tooltip-content,
+.ui-tooltip-tipsy,
+.ui-tooltip-tipsy .ui-tooltip-content,
+.ui-tooltip-youtube,
+.ui-tooltip-youtube .ui-tooltip-content{
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.ui-tooltip-rounded .ui-tooltip-titlebar,
+.ui-tooltip-tipsy .ui-tooltip-titlebar,
+.ui-tooltip-youtube .ui-tooltip-titlebar{
+	-moz-border-radius: 5px 5px 0 0;
+	-webkit-border-radius: 5px 5px 0 0;
+	border-radius: 5px 5px 0 0;
+}
+
+.ui-tooltip-rounded .ui-tooltip-titlebar + .ui-tooltip-content,
+.ui-tooltip-tipsy .ui-tooltip-titlebar + .ui-tooltip-content,
+.ui-tooltip-youtube .ui-tooltip-titlebar + .ui-tooltip-content{
+	-moz-border-radius: 0 0 5px 5px;
+	-webkit-border-radius: 0 0 5px 5px;
+	border-radius: 0 0 5px 5px;
+}
+
+
+/*! Youtube tooltip style */
+.ui-tooltip-youtube{
+	-webkit-box-shadow: 0 0 3px #333;
+	-moz-box-shadow: 0 0 3px #333;
+	box-shadow: 0 0 3px #333;
+}
+
+	.ui-tooltip-youtube .ui-tooltip-titlebar,
+	.ui-tooltip-youtube .ui-tooltip-content{
+		_margin-bottom: 0; /* IE6 */
+		.margin-bottom: 0; /* IE7 */
+
+		background: transparent;
+		background: rgba(0, 0, 0, 0.85);
+		filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9000000,endColorstr=#D9000000);
+		-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9000000,endColorstr=#D9000000)";
+
+		color: white;
+		border-color: #CCCCCC;
+	}
+
+	.ui-tooltip-youtube .ui-tooltip-icon{
+		border-color: #222;
+	}
+
+	.ui-tooltip-youtube .ui-tooltip-titlebar .ui-state-hover{
+		border-color: #303030;
+	}
+
+
+/* jQuery TOOLS Tooltip style */
+.ui-tooltip-jtools{
+	background: #232323;
+	background: rgba(0, 0, 0, 0.7);
+	background-image: -moz-linear-gradient(top, #717171, #232323);
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#717171), to(#232323));
+	
+	border: 2px solid #ddd;
+	border: 2px solid rgba(241,241,241,1);
+
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+
+	-webkit-box-shadow: 0 0 12px #333;
+	-moz-box-shadow: 0 0 12px #333;
+	box-shadow: 0 0 12px #333;
+}
+
+	/* IE Specific */
+	.ui-tooltip-jtools .ui-tooltip-titlebar{
+		filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#717171,endColorstr=#4A4A4A);
+		-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#717171,endColorstr=#4A4A4A)";
+	}
+	.ui-tooltip-jtools .ui-tooltip-content{
+		filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4A4A4A,endColorstr=#232323);
+		-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#4A4A4A,endColorstr=#232323)";
+	}
+
+	.ui-tooltip-jtools .ui-tooltip-titlebar,
+	.ui-tooltip-jtools .ui-tooltip-content{
+		background: transparent;
+		color: white;
+		border: 0 dashed transparent;
+	}
+
+	.ui-tooltip-jtools .ui-tooltip-icon{
+		border-color: #555;
+	}
+
+	.ui-tooltip-jtools .ui-tooltip-titlebar .ui-state-hover{
+		border-color: #333;
+	}
+
+
+/* Cluetip style */
+.ui-tooltip-cluetip{
+	-webkit-box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.4);
+	box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.4);
+}
+
+	.ui-tooltip-cluetip .ui-tooltip-titlebar{
+		background-color: #87876A;
+		color: white;
+		border: 0 dashed transparent;
+	}
+
+	.ui-tooltip-cluetip .ui-tooltip-content{
+		background-color: #D9D9C2;
+		color: #111;
+		border: 0 dashed transparent;
+	}
+	
+	.ui-tooltip-cluetip .ui-tooltip-icon{
+		border-color: #808064;
+	}
+	
+	.ui-tooltip-cluetip .ui-tooltip-titlebar .ui-state-hover{
+		border-color: #696952;
+		color: #696952;
+	}
+
+
+/* Tipsy style */
+.ui-tooltip-tipsy{
+	border: 0;
+}
+
+	.ui-tooltip-tipsy .ui-tooltip-titlebar,
+	.ui-tooltip-tipsy .ui-tooltip-content{
+		_margin-bottom: 0; /* IE6 */
+		.margin-bottom: 0; /* IE7 */
+
+		background: transparent;
+		background: rgba(0, 0, 0, .87);
+		filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9000000,endColorstr=#D9000000);
+		-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9000000,endColorstr=#D9000000)";
+		
+		color: white;
+		border: 0px transparent;
+
+		font-size: 11px;
+		font-family: 'Lucida Grande', sans-serif;
+		font-weight: bold;
+		line-height: 16px;
+		text-shadow: 0 1px black;
+	}
+
+	.ui-tooltip-tipsy .ui-tooltip-titlebar{
+		padding: 6px 35px 0 10;
+	}
+
+	.ui-tooltip-tipsy .ui-tooltip-content{
+		padding: 6px 10;
+	}
+	
+	.ui-tooltip-tipsy .ui-tooltip-icon{
+		border-color: #222;
+		text-shadow: none;
+	}
+
+	.ui-tooltip-tipsy .ui-tooltip-titlebar .ui-state-hover{
+		border-color: #303030;
+	}
+
+
+/* Tipped style */
+.ui-tooltip-tipped{
+
+}
+	
+	.ui-tooltip-tipped .ui-tooltip-titlebar,
+	.ui-tooltip-tipped .ui-tooltip-content{
+		border: 3px solid #959FA9;
+
+		filter: none; -ms-filter: none;
+	}
+
+	.ui-tooltip-tipped .ui-tooltip-titlebar{
+		background: #3A79B8;
+		background-image: -moz-linear-gradient(top, #3A79B8, #2E629D);
+		background-image: -webkit-gradient(linear, left top, left bottom, from(#3A79B8), to(#2E629D));
+		filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#3A79B8,endColorstr=#2E629D);
+		-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#3A79B8,endColorstr=#2E629D)";
+
+		color: white;
+		font-weight: normal;
+		font-family: serif;
+
+		border-bottom-width: 0;
+		-moz-border-radius: 3px 3px 0 0;
+		-webkit-border-radius: 3px 3px 0 0;
+		border-radius: 3px 3px 0 0;
+	}
+	
+	.ui-tooltip-tipped .ui-tooltip-content{
+		background-color: #F9F9F9;
+		color: #454545;
+
+		-moz-border-radius: 0 0 3px 3px;
+		-webkit-border-radius: 0 0 3px 3px;
+		border-radius: 0 0 3px 3px;
+	}
+
+	.ui-tooltip-tipped .ui-tooltip-icon{
+		border: 2px solid #285589;
+		background: #285589;
+	}
+		
+		.ui-tooltip-tipped .ui-tooltip-icon .ui-icon{
+			background-color: #FBFBFB;
+			color: #555;
+		}
+
+		
+/*! SM Blue tooltip style */
+.ui-tooltip-smblue .ui-tooltip-titlebar,
+/*.ui-tooltip-smblue .ui-tooltip-content{
+	border-color: #ADD9ED;
+	color: #5E99BD;
+}*/
+
+	.ui-tooltip-smblue .ui-tooltip-content{
+		background-color: #e3edf4;
+		color:#1e598e;
+		border: 2px solid #c9dbec;
+	}
+	
+	.ui-tooltip-smblue .ui-tooltip-content a:hover{
+		color:#ffffff; /*809F41;*/
+		background:#9bbb59;
+		text-decoration:none;
+	}
+
+	.ui-tooltip-smblue .ui-tooltip-titlebar{
+		background-color: #D0E9F5;
+	}
+
+	.ui-tooltip-smblue .ui-state-default .ui-tooltip-icon{
+		background-position: -2px 0;
+	}	
+		
+		
+		
+/* IE9 fix - removes all filters */
+.ui-tooltip:not(.ie9haxors) div.ui-tooltip-content,
+.ui-tooltip:not(.ie9haxors) div.ui-tooltip-titlebar{
+	filter: none;
+	-ms-filter: none;
+}

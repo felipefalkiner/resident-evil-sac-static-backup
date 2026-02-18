@@ -1,0 +1,7 @@
+a { color:#b70000; text-decoration:none; }
+.featured-arrows { background:url(./images/featured-arrows.png) no-repeat; height:52px; width:39px; position:absolute; top:160px; }
+.news-arrows { position:absolute; left:0; top:220px; height:44px; width:40px; background:url(./images/news-arrows.png) no-repeat; }
+.widget-title { background:url(./images/widget-top.png) no-repeat; color:#FFF; height:32px; padding:8px 0 0 50px; text-shadow: 1px 1px 1px #000; margin-bottom:20px; font-family:"BebasNeueRegular"; font-size:22px; }
+.media-arrows { background:url(./images/media-arrows.png) no-repeat; width:30px; height:29px; position:absolute; top:100px; left:1px; }
+#twitter_div ul li span a { color:#b70000; display:inherit; font-size:12px !important; }
+
